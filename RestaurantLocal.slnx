@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Restaurant.Infrastructure/Restaurant.Infrastructure.csproj" Id="2c37e89a-9d06-4e6b-8f6c-b3aadc0cdac0" />
+    <Project Path="Restaurant.Domain/Restaurant.Domain.csproj" />
+    <Project Path="Restaurant.Server/Restaurant.Server.csproj" Id="071ddc69-4b87-4f65-be4e-da1e46268ca3" />
+  </Folder>
+</Solution>
